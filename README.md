@@ -7,7 +7,7 @@ Wallpaper selector made using quickshell.
 
 ## Demo
 
-https://github.com/user-attachments/assets/375e3696-e62d-48bf-8af6-18d2be86b224
+https://github.com/0x0Axlw/Qs-Switcher-/blob/main/output.mp4
 
 
 ## Dependencies
